@@ -31,3 +31,13 @@
 - Deployment
 - Beyond Web Servers
 - Node + Typescript, Deno
+
+
+
+# How to get most out of the curso
+
+- Watch the videos -> at your speed pause & rewind! 
+- Code along & do the exercises
+- Use the curso resources -> Attached code & links
+- Ask in Q&A 
+- Help others in Q&A 
