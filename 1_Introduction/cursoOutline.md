@@ -1,5 +1,5 @@
 
-# curso outline
+# 6 - curso outline
 
 - Getting Started
 - Javascript Refresher 
@@ -34,10 +34,14 @@
 
 
 
-# How to get most out of the curso
+# 7 - How to get most out of the curso
 
 - Watch the videos -> at your speed pause & rewind! 
 - Code along & do the exercises
 - Use the curso resources -> Attached code & links
 - Ask in Q&A 
 - Help others in Q&A 
+
+
+# 8 - Wrokig with the REPL vs Using Files
+# 9 - Using the attached source code
