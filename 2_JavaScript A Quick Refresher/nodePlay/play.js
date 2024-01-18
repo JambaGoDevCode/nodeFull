@@ -1,6 +1,6 @@
-var name = 'Joao'
-var age = 29
-var hasCart = false
+let name = 'Joao'
+let age = 29
+const hasCart = false
 
 
 function concateUser(Username, Userage, UserhasCart){
