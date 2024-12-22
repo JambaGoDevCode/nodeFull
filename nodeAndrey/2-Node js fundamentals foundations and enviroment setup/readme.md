@@ -16,5 +16,13 @@
 -   Bonus controlling robots with node
 -   The Deno runtime
 -   The global object
+
+        Node vs Javacript 
+        Window          global
+        document        process
+        history         module
+        location        __filename
+        navigator       require()
+
 -   Introduction to Backennd vs Forntend
 -   Monthly coding challenges, Free resources and guides
